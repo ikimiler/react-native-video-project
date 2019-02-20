@@ -2,7 +2,7 @@
 
     <!-- Base application theme. -->
     <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
-        <!-- Customize your theme here. -->
+         <item name="colorAccent">@color/accent_material_light_3</item>
     </style>
 
 </resources>

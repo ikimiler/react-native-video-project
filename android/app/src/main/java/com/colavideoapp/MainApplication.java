@@ -2,6 +2,7 @@ package com.colavideoapp;
 
 import android.app.Application;
 
+import com.colavideoapp.reactpackage.AppReactPackage;
 import com.facebook.react.ReactApplication;
 import io.realm.react.RealmReactPackage;
 import com.github.yamill.orientation.OrientationPackage;
@@ -40,7 +41,9 @@ public class MainApplication extends Application implements ReactApplication {
             new CodePush(null, getApplicationContext(), BuildConfig.DEBUG),
             new RNDeviceInfo(),
             new RNFSPackage(),
-            new ReactVideoPackage()
+            new ReactVideoPackage(),
+              new AppReactPackage()
+
       );
     }
 
