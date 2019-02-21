@@ -41,14 +41,16 @@
 
 ### 运行android：
 
-1. 在项目根目录执行npm install，前提需要先安装node
+1. 先安装node，然后安装react-native 命令：npm install -g react-native
+2. 在项目根目录执行npm install
 2. 在node-modules/react-native-video/android-exoplayer/src/main/java/com/brentvatne/exoplayer/ReactExoplayerView 第 710 行把判断语句去除掉
 2. react-native run-android
 
 
 ### 运行ios:
-1. 在项目根目录执行npm install，前提需要先安装node
-2. 在node-modules/react-native-video/ios/RCTVideo.m 第394行，加入
+1. 先安装node，然后安装react-native 命令：npm install -g react-native
+2. 在项目根目录执行npm install
+3. 在node-modules/react-native-video/ios/RCTVideo.m 第394行，加入
 `if([uri isEqualToString:@""]){
 	return nil;	
 }`
