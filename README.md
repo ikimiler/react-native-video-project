@@ -28,7 +28,7 @@
 ![ios播放页](https://raw.githubusercontent.com/andmizi/react-native-video-project/master/picture/Simulator%20Screen%20Shot%20-%20iPhone%20XR%20-%202019-02-20%20at%2017.32.41.png)
 
 
-###功能要点：
+### 功能要点：
 * m3u8视频播放，支持手势快进后退，倍数播放
 * m3u8视频缓存(单线程模式)，暂不支持断点续传
 * 列表页通用封装
@@ -49,11 +49,9 @@
 ### 运行ios:
 1. 在项目根目录执行npm install，前提需要先安装node
 2. 在node-modules/react-native-video/ios/RCTVideo.m 第394行，加入
-
-```if([uri isEqualToString:@""]){
+`if([uri isEqualToString:@""]){
 	return nil;	
-}```
-
+}`
 3. react-native run-ios
 
 如果编译安卓/ios遇到错误，请提issuess
