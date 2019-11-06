@@ -1,3 +1,7 @@
+#### 微信交流群，扫码加入
+![https://raw.githubusercontent.com/ikimiler/react-native-video-project/master/picture/TIM%E6%88%AA%E5%9B%BE20191106090439.png](https://raw.githubusercontent.com/ikimiler/react-native-video-project/master/picture/TIM%E6%88%AA%E5%9B%BE20191106090439.png)
+
+
 一个基于react-native的纯跨平台的影视项目，欢迎大家star
 
 此项目经过线上考验，仅供大家学习参考
