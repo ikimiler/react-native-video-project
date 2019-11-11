@@ -1,4 +1,4 @@
-#### 微信交流群，扫码加入
+#### 微信交流群，扫码加入(微信群不能加入的，加我vx:andmizi 我邀请你)
 ![https://raw.githubusercontent.com/ikimiler/react-native-video-project/master/picture/TIM%E6%88%AA%E5%9B%BE20191106090439.png](https://raw.githubusercontent.com/ikimiler/react-native-video-project/master/picture/TIM%E6%88%AA%E5%9B%BE20191106090439.png)
 
 
