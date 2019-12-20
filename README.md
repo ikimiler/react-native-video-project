@@ -61,6 +61,10 @@
 }`
 4. react-native run-ios
 
+tips:
+
+1.有朋友反馈说运行出来后图片加载不出来，是因为远程图片失效的问题，具体修改data.json 里的coverUrl字段
+
 如果编译安卓/ios遇到错误，请提issuess
 
 最后给你们要一个star O(∩_∩)O
