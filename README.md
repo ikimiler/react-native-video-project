@@ -8,6 +8,7 @@
 此项目经过线上考验，仅供大家学习参考
 
 #### !!!强烈建议大家分别编译下双端以亲身体会react native的魅力!!!
+#### 很多小伙伴会遇到编译不通过，或者直接体验apk，下载地址请看这里[https://lanzous.com/id07vja](https://lanzous.com/id07vja)
 
 ### ios端错误统计
 ![https://raw.githubusercontent.com/andmizi/react-native-video-project/master/picture/TIM%E6%88%AA%E5%9B%BE20190218144258.png](https://raw.githubusercontent.com/andmizi/react-native-video-project/master/picture/TIM%E6%88%AA%E5%9B%BE20190218144258.png)
