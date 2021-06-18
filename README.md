@@ -1,6 +1,6 @@
 ### 俺的小网站，希望多多支持 [https://www.vjujiao.com](https://www.vjujiao.com)
 
-#### 微信交流群，扫码加入(微信群不能加入的，加我vx:tencent_kimi 我邀请你)
+#### 微信交流群，扫码加入(微信群不能加入的，加我vx:kimi 我邀请你)
 ![https://raw.githubusercontent.com/ikimiler/react-native-video-project/master/picture/TIM%E6%88%AA%E5%9B%BE20191106090439.png](https://raw.githubusercontent.com/ikimiler/react-native-video-project/master/picture/TIM%E6%88%AA%E5%9B%BE20191106090439.png)
 
 一个基于react-native的纯跨平台的影视项目，欢迎大家star
