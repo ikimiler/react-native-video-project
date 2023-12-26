@@ -1,5 +1,3 @@
-### 俺的小网站，希望多多支持 [https://www.vjujiao.com](https://www.vjujiao.com)
-
 #### 微信交流群，扫码加入(微信群不能加入的，加我vx:inskimi 我邀请你)
 ![https://raw.githubusercontent.com/ikimiler/react-native-video-project/master/picture/TIM%E6%88%AA%E5%9B%BE20191106090439.png](https://raw.githubusercontent.com/ikimiler/react-native-video-project/master/picture/TIM%E6%88%AA%E5%9B%BE20191106090439.png)
 
